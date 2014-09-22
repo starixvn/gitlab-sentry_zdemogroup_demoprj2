@@ -8,5 +8,6 @@ namespace ClassLibrary2
     public class Class1
     {
         public int MyProperty2 { get; set; }
+        public int MyProperty4 { get; set; }
     }
 }

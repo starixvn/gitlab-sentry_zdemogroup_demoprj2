@@ -1,0 +1,5 @@
+D:\Builds\_Precompiled\demoprj2\MvcApplication\ClassLibrary2.dll
+D:\Builds\_Precompiled\demoprj2\MvcApplication\ClassLibrary2.pdb
+D:\Builds\UnCompiled\demoprj2\ClassLibrary2\obj\Release\ClassLibrary2.csprojResolveAssemblyReference.cache
+D:\Builds\UnCompiled\demoprj2\ClassLibrary2\obj\Release\ClassLibrary2.dll
+D:\Builds\UnCompiled\demoprj2\ClassLibrary2\obj\Release\ClassLibrary2.pdb
