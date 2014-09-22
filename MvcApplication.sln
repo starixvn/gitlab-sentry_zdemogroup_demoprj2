@@ -5,6 +5,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcApplication", "MvcApplic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{81CF47A9-C37A-4847-8DAF-1B76176490BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary2", "ClassLibrary2\ClassLibrary2.csproj", "{DDF03BCF-3B6D-4408-BBF5-E8C81F844025}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary3", "ClassLibrary3\ClassLibrary3.csproj", "{BF43BB5C-1AD8-42D6-9CF3-5920540479BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +23,14 @@ Global
 		{81CF47A9-C37A-4847-8DAF-1B76176490BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81CF47A9-C37A-4847-8DAF-1B76176490BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81CF47A9-C37A-4847-8DAF-1B76176490BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDF03BCF-3B6D-4408-BBF5-E8C81F844025}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDF03BCF-3B6D-4408-BBF5-E8C81F844025}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDF03BCF-3B6D-4408-BBF5-E8C81F844025}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDF03BCF-3B6D-4408-BBF5-E8C81F844025}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF43BB5C-1AD8-42D6-9CF3-5920540479BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF43BB5C-1AD8-42D6-9CF3-5920540479BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF43BB5C-1AD8-42D6-9CF3-5920540479BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF43BB5C-1AD8-42D6-9CF3-5920540479BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
