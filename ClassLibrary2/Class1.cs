@@ -9,5 +9,7 @@ namespace ClassLibrary2
     {
         public int MyProperty2 { get; set; }
         public int MyProperty4 { get; set; }
+        public int MyProperty5 { get; set; }
+        public int MyProperty6 { get; set; }
     }
 }
