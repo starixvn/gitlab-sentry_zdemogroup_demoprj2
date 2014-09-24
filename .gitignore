@@ -1,0 +1,12 @@
+ClassLibrary1/obj/Release/ClassLibrary1.csproj.FileListAbsolute.txt
+ClassLibrary1/obj/Release/ClassLibrary1.csprojResolveAssemblyReference.cache
+ClassLibrary1/obj/Release/ClassLibrary1.dll
+ClassLibrary1/obj/Release/ClassLibrary1.pdb
+ClassLibrary2/obj/Release/ClassLibrary2.csprojResolveAssemblyReference.cache
+ClassLibrary2/obj/Release/ClassLibrary2.dll
+ClassLibrary2/obj/Release/ClassLibrary2.pdb
+ClassLibrary3/obj/Release/ClassLibrary3.dll
+ClassLibrary3/obj/Release/ClassLibrary3.pdb
+MvcApplication/obj/Release/MvcApplication.csprojResolveAssemblyReference.cache
+MvcApplication/obj/Release/MvcApplication.dll
+MvcApplication/obj/Release/MvcApplication.pdb
