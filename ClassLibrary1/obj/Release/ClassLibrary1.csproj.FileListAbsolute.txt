@@ -1,3 +1,4 @@
 D:\Builds\UnCompiled\demoprj2\ClassLibrary1\obj\Release\ClassLibrary1.dll
 D:\Builds\_Precompiled\demoprj2\ClassLibrary1.dll
-D:\Builds\Uncompiled\demoprj2\ClassLibrary1\obj\Release\ClassLibrary1.csprojResolveAssemblyReference.cache
+D:\Builds\_Precompiled\demoprj2\MvcApplication\ClassLibrary1.dll
+D:\Builds\UnCompiled\demoprj2\ClassLibrary1\obj\Release\ResolveAssemblyReference.cache

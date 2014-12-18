@@ -1,6 +1,4 @@
 D:\Builds\_Precompiled\demoprj2\MvcApplication\deployment.ignore
 D:\Builds\_Precompiled\demoprj2\MvcApplication\MvcApplication.dll
-D:\Builds\_Precompiled\demoprj2\MvcApplication\MvcApplication.pdb
-D:\Builds\UnCompiled\demoprj2\MvcApplication\obj\Release\MvcApplication.csprojResolveAssemblyReference.cache
 D:\Builds\UnCompiled\demoprj2\MvcApplication\obj\Release\MvcApplication.dll
-D:\Builds\UnCompiled\demoprj2\MvcApplication\obj\Release\MvcApplication.pdb
+D:\Builds\UnCompiled\demoprj2\MvcApplication\obj\Release\ResolveAssemblyReference.cache

@@ -1,4 +1,3 @@
 D:\Builds\_Precompiled\demoprj2\MvcApplication\ClassLibrary3.dll
-D:\Builds\_Precompiled\demoprj2\MvcApplication\ClassLibrary3.pdb
 D:\Builds\UnCompiled\demoprj2\ClassLibrary3\obj\Release\ClassLibrary3.dll
-D:\Builds\UnCompiled\demoprj2\ClassLibrary3\obj\Release\ClassLibrary3.pdb
+D:\Builds\UnCompiled\demoprj2\ClassLibrary3\obj\Release\ResolveAssemblyReference.cache
